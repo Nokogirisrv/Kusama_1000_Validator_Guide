@@ -76,6 +76,7 @@ To manually update your node:
     docker rm kusama_node
     ```
 4. Download snapshot (optional):
+   
    [https://polkachu.com/snapshots/kusama](https://polkachu.com/snapshots/kusama)
     ```
     curl -o - -L https://snapshots.polkachu.com/snapshots/kusama/kusama_16151324.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.kusama/chains/ksmcc3/
