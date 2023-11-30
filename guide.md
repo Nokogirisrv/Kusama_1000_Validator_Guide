@@ -84,7 +84,21 @@ To manually update your node:
 4. Start the container:
 
     ```bash
-    docker rm kusama_node
+    docker run -dit \
+    --name kusama_node \
+    --restart always \
+    --network host \
+    -v $HOME/.kusama:/data -u $(id -u ${USER}):$(id -g ${USER}) \
+    parity/polkadot:latest --base-path /data --chain kusama \
+    --validator --name "<moniker>" \
+    --sync=warp \
+    --port 30533 \
+    --rpc-port 9953 \
+    --prometheus-port 9655 \
+    --in-peers 32 --out-peers 8 \
+    --telemetry-url 'wss://telemetry.polkadot.io/submit/ 1' \
+    --telemetry-url 'wss://telemetry-backend.w3f.community/submit 1' \
+    --no-beefy
     ```
 # Useful Commands
 To view logs:
