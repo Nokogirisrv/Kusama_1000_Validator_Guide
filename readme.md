@@ -78,8 +78,16 @@ To manually update your node:
 4. Download snapshot (optional):
    
    [https://snapshots.polkachu.com/snapshots/kusama](https://snapshots.polkachu.com/snapshots/kusama)
+   One command:
     ```
     curl -o - -L https://snapshots.polkachu.com/snapshots/kusama/kusama_16151324.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.kusama/chains/ksmcc3/
+    ```
+    Separated commands:
+    ```
+    wget https://snapshots.polkachu.com/snapshots/kusama/kusama_16151324.tar.lz4
+    ```
+     ```
+    lz4 -d -c kusama_21769750.tar.lz4 | tar -xf - -C $HOME/.kusama/chains/ksmcc3/
     ```
 4. Start the container:
 
