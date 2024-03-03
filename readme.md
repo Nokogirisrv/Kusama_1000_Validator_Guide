@@ -133,14 +133,14 @@ TelegramBot: <https://t.me/subvt_kusama_bot>
 
 <https://thousand-validators.kusama.network/#/leaderboard>
 # Monitoring
-<https://kusama.w3f.community/score/D5khA3qGvd8SDXepSrCGmYRWbNUzdJpjEyg6m1mFT7VtHpw>
+<https://kusama.w3f.community/score/HvUaoMXAcKNe17zaXGAJvH9ugQk1PRAuzGMKvtck6DV7pvr>
 
-<https://insights.math-crypto.com/kusama/D5khA3qGvd8SDXepSrCGmYRWbNUzdJpjEyg6m1mFT7VtHpw>
+<https://insights.math-crypto.com/kusama/HvUaoMXAcKNe17zaXGAJvH9ugQk1PRAuzGMKvtck6DV7pvr>
 
-<https://kusama.polkastats.io/validator/D5khA3qGvd8SDXepSrCGmYRWbNUzdJpjEyg6m1mFT7VtHpw>
+<https://kusama.polkastats.io/validator/HvUaoMXAcKNe17zaXGAJvH9ugQk1PRAuzGMKvtck6DV7pvr>
 
-<https://kusama.w3f.community/score/DwZmVxujvVZmzmLZJ3wNTqyxBYTPDstCxayK6nwSR9HC1tS>
+<https://kusama.w3f.community/score/HvUaoMXAcKNe17zaXGAJvH9ugQk1PRAuzGMKvtck6DV7pvr>
 
-<https://insights.math-crypto.com/kusama/DwZmVxujvVZmzmLZJ3wNTqyxBYTPDstCxayK6nwSR9HC1tS>
+<https://insights.math-crypto.com/kusama/HvUaoMXAcKNe17zaXGAJvH9ugQk1PRAuzGMKvtck6DV7pvr>
 
-<https://kusama.polkastats.io/validator/DwZmVxujvVZmzmLZJ3wNTqyxBYTPDstCxayK6nwSR9HC1tS>
+<https://kusama.polkastats.io/validator/HvUaoMXAcKNe17zaXGAJvH9ugQk1PRAuzGMKvtck6DV7pvr>
