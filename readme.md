@@ -1,3 +1,6 @@
+#Form and Leaderboard for 1kv program
+https://thousand-validators.kusama.network/#/
+
 # Setting up a Kusama Node
 ## Requirements
 - Validators must never have been slashed
